@@ -8,7 +8,7 @@ Kandora and Abaya Uniform Tracking Dataset
 
 <p align="center">
     <br>
-    <img src="screenshot.png" width="100%"/>
+    <img src="screenshot.png" width="50%"/>
     <br>
 </p>
 
